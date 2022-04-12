@@ -4,7 +4,7 @@
   "description": "Some implementations of Data Structures and Algorithms in JS/TS",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npx tsnd --respawn"
   },
   "repository": {
     "type": "git",
