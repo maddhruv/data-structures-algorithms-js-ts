@@ -1,0 +1,24 @@
+{
+  "name": "data-structures-algorithms-js-ts",
+  "version": "1.0.0",
+  "description": "Some implementations of Data Structures and Algorithms in JS/TS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maddhruv/data-structures-algorithms-js-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maddhruv/data-structures-algorithms-js-ts/issues"
+  },
+  "homepage": "https://github.com/maddhruv/data-structures-algorithms-js-ts#readme",
+  "dependencies": {
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.6.3"
+  }
+}
