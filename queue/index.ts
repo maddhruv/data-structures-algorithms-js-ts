@@ -33,7 +33,7 @@ class Queue<T> {
   /**
    * Get the size of queue
    */
-  size(): number {
+  public size(): number {
     return this.items.length;
   }
 }
