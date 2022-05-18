@@ -66,7 +66,7 @@ class LinkedList<T> {
       let prev,
         iterator = 0;
 
-      while (iterator < 0) {
+      while (iterator < index) {
         iterator++;
         prev = current;
         current = current.next;
